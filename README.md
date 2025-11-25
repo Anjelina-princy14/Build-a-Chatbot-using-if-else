@@ -81,9 +81,3 @@ By completing this task, the learner understands:
 
 ---
 
-If you want, I can also prepare:
-✨ A short description for your project submission form
-✨ A folder structure layout
-✨ A final professional GitHub description
-
-Just tell me!
