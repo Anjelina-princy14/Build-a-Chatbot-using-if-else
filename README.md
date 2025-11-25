@@ -6,7 +6,7 @@
 
 ---
 
-Task 8 – Rule-Based Chatbot (PythonGenie)**
+Task 8 – Rule-Based Chatbot (PythonGenie)
 
 📌 **Overview**
 
