@@ -63,10 +63,10 @@ python chatbot.py
 
 **Output**
 
-```
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5e4a965-3877-4f9c-b07a-637f433e8218" />
 
-```
+
 
 ---
 
